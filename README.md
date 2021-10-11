@@ -2,7 +2,7 @@
 
 # Description
 
-A simple Console Snake Game using C++, but, with no flickering issues or distance variations based on vertical or horizontal movements.
+A simple Console Snake Game using C++, but, with no flickering issues and distance variations between vertical and horizontal movements.
 
 # Requirements
 
